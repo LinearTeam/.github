@@ -1,12 +1,16 @@
-## Hi there 👋
+## 你好 🤔
 
-<!--
+### 关于我们
 
-**Here are some ideas to get you started:**
+这里是`LinearTeam`，主要开发项目：
+  - [Line Launcher](https://line.icecreamteam.win)
+  - Line Mirror
+  - LPMK
+主要成员：
+  - [皇鱼](https://github.com/tmdakm) ([Line Launcher C#](https://github.com/LinearTeam/LineLauncherCs)/Line Mirror/LPMK)
+  - [影宝](https://github.com/iLoveEi) ([Line Launcher Python](https://github.com/iLoveEi/Line-Minecraft-Launcher)/LineMirror)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 联系方式
+  - Email 📫: [line@huangyu.win](mailto:line@huangyu.win)
+  - QQ 🐧 : [皇鱼](http://wpa.qq.com/msgrd?v=3&uin=3541621163&site=qq&menu=yes)
+  - Website 🌏 : [皇鱼](https://www.huangyu.win)
