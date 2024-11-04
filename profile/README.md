@@ -6,9 +6,12 @@
   - [Line Launcher](https://line.icecreamteam.win)
   - Line Mirror
   - LPMK
+  - CTC
+
+~所有没全称的要么是无限期停更要么是暂时不能公开~
 
 主要成员：
-  - [皇鱼](https://github.com/tmdakm) ([Line Launcher C#](https://github.com/LinearTeam/LineLauncherCs)/Line Mirror/LPMK)
+  - [皇鱼](https://github.com/tmdakm) ([Line Launcher C#](https://github.com/LinearTeam/LineLauncherCs)/Line Mirror/LPMK/CTC)
   - [影宝](https://github.com/iLoveEi) ([Line Launcher Python](https://github.com/iLoveEi/Line-Minecraft-Launcher)/LineMirror)
 
 ### 联系方式
